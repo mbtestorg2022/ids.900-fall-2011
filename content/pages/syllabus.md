@@ -62,13 +62,90 @@ Grading
 
 Course deliverables are detailed in the [Assignments]({{< baseurl >}}/pages/assignments) section of this course.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Assignment 1: Observations, data sources, and data reduction | 10% |
-| Assignment 5: Book review | 10% |
-| Assignment 6: Historical roots and contemporary methodologies of engineering systems paper and presentation | 30% |
-| Assignment 7: Systems concept assignment | 10% |
-| Assignment 8: Developing a well–posed research question | 10% |
-| Assignment 9: Critical analysis of an ES research paper | 5% |
-| Assignment 10: Learning summary | 5% |
-| Seminar participation | 20%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 1: Observations, data sources, and data reduction
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 5: Book review
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 6: Historical roots and contemporary methodologies of engineering systems paper and presentation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 7: Systems concept assignment
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 8: Developing a well–posed research question
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 9: Critical analysis of an ES research paper
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 10: Learning summary
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Seminar participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
