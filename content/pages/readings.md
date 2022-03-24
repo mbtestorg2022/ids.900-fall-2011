@@ -70,7 +70,7 @@ Schwartz, Martin A. "[The Importance of Stupidity in Scientific Research](http:/
 
 Kaiser, David. "[When Fields Collide](http://www.scientificamerican.com/article.cfm?id=when-fields-collide)." _Scientific American_ 296 (2007): 62–9.
 
-———. "Turning Physicists into Quantum Mechanics." _Physics World_ (2007): 28–33. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/dikaiser/www/Kaiser.QM.pdf))
+———. "Turning Physicists into Quantum Mechanics." _Physics World_ (2007): 28–33. ([PDF](http://web.mit.edu/dikaiser/www/Kaiser.QM.pdf))
 
 
 {{< tdclose >}}
@@ -130,7 +130,7 @@ Herzlinger, R. E. "[Let's Put Consumers in Charge of Health Care](http://www.ncb
 
 ### Guest Readings
 
-Rhodes, Donna H., Adam M. Ross, and Deborah J. Nightingale. "Architecting the System of Systems Enterprise: Enabling Constructs and Methods from the Field of Engineering Systems." SysCon2009 – IEEE International Systems Conference Pre-print Version Vancouver, Canada, March 23-26, 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://seari.mit.edu/documents/preprints/RHODES_IEEE09.pdf))
+Rhodes, Donna H., Adam M. Ross, and Deborah J. Nightingale. "Architecting the System of Systems Enterprise: Enabling Constructs and Methods from the Field of Engineering Systems." SysCon2009 – IEEE International Systems Conference Pre-print Version Vancouver, Canada, March 23-26, 2009. ([PDF](http://seari.mit.edu/documents/preprints/RHODES_IEEE09.pdf))
 
 
 {{< tdclose >}}
@@ -186,13 +186,13 @@ Guest: Stuart Kauffman
 
 Schelling, T. "[Dynamic Models of Segregation](http://www.mendeley.com/catalog/dynamic-models-segregation/)." _Journal of Mathematical Sociology_ 1 (1971): 143–86.
 
-Ham, Frank van, and Jarke J. van Wijk. "Interactive Visualization of Small World Graphs." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8CFC3FB0844418A8DC118F1D6D770B69?doi=10.1.1.212.3307&rep=rep1&type=pdf))
+Ham, Frank van, and Jarke J. van Wijk. "Interactive Visualization of Small World Graphs." ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8CFC3FB0844418A8DC118F1D6D770B69?doi=10.1.1.212.3307&rep=rep1&type=pdf))
 
 BBC. "Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC Four." November 26, 2010. YouTube. [www.youtube.com/watch?v=jbkSRLYSojo](http://www.youtube.com/watch?v=jbkSRLYSojo)
 
 ### Guest Readings
 
-Kauffman, S. "Answering Descartes: Beyond Turing." In _The Once and Future Turing - Computing the World_. Edited by S. Barry Cooper and Andrew Hodges. Cambridge University Press, 2012. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://pdfs.semanticscholar.org/1d97/3000573811cc6403c2ee274b9b594523be7e.pdf))
+Kauffman, S. "Answering Descartes: Beyond Turing." In _The Once and Future Turing - Computing the World_. Edited by S. Barry Cooper and Andrew Hodges. Cambridge University Press, 2012. ([PDF](https://pdfs.semanticscholar.org/1d97/3000573811cc6403c2ee274b9b594523be7e.pdf))
 
 ### Optional Guest Readings
 
